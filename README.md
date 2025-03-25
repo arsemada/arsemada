@@ -3,7 +3,7 @@ I'm Arsema, an aspiring Full Stack Developer passionate about building innovativ
 
 Excited about collaborating on projects that make a real impact.
 
-💬 Want to chat? Find me on [LinkedIn](https://www.linkedin.com/in/yourname/), [Twitter](https://twitter.com/yourusername), or shoot me an email.
+💬 Want to chat? Find me on [LinkedIn](www.linkedin.com/in/arsema-addis-5b20952a0), [Twitter](https://x.com/arsemadd), or shoot me an email.
 
 ⚡ I love embracing new ideas and continuously learning! 
 
