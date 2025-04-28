@@ -1,14 +1,13 @@
-# Hello world 👋  
+# Hello world 👋
 I'm Arsema, an aspiring Full Stack Developer passionate about building innovative web and mobile apps. I love turning ideas into solutions and continuously improving my skills.
 
 Excited about collaborating on projects that make a real impact.
 
-💬 Want to chat? Find me on [LinkedIn](www.linkedin.com/in/arsema-addis-5b20952a0), [Twitter](https://x.com/arsemadd), or shoot me an email.
+💬 Want to chat? Find me on [LinkedIn](www.linkedin.com/in/arsema-addis-5b20952a0), [Twitter](https://x.com/arsemadd), or [Email Me](mailto:arsemadd@gmail.com).
 
-⚡ I love embracing new ideas and continuously learning! 
+⚡ I love embracing new ideas and continuously learning!
 
 🌐 Check out my [Portfolio](https://github.com/arsemada)
-
 
 
 ## 🛠 Tech Stack
