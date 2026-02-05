@@ -24,9 +24,11 @@ Excited about collaborating on projects that make a real impact.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=arsemada&show_icons=true&theme=blueberry" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=arsemada&theme=blueberry" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arsemada&layout=compact&theme=blueberry" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arsemada&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true" height="165"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsemada&theme=blueberry" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsemada&layout=compact&theme=blueberry&hide=html,css" height="165"/>
 </p>
 
 ---
