@@ -47,27 +47,27 @@ I am a software engineer specializing in backend architecture, full-stack develo
 
 ### 🏗️ Systems Engineering & Experience
 
-⚙️ **Bahir Dar Automotive Engineering ERP**
-*Enterprise Resource Planning · Full-Stack*
+◈ **Bahir Dar Automotive Engineering ERP**  
+*Enterprise Resource Planning · Full-Stack*  
 An enterprise software system engineered for automotive workshop and inventory management.
 * Authored technical proposals, requirement specifications, and workflow documentation.
 * Designed backend architecture to manage complex inventory supply chains.
 
-🚀 **IIMS — Innovation & Incubation Management System**
-*SaaS · Full-Stack · AI Integration*
+◈ **IIMS — Innovation & Incubation Management System**  
+*SaaS · Full-Stack · AI Integration*  
 A multi-tenant platform architected for incubation centers to manage end-to-end startup lifecycles.
 * Automated startup onboarding, progress tracking, and mentor assignments.
 * Integrated AI-powered incubation guidance and analytics.
 * Seamless Google Calendar synchronization and tenant management.
 
-🏢 **Gato ERP System**
-*Enterprise Resource Planning · Client: Gato Consultancy & Trading PLC*
+◈ **Gato ERP System**  
+*Enterprise Resource Planning · Client: Gato Consultancy & Trading PLC*  
 A specialized operational management system engineered to automate complex business workflows.
 * Centralized financial, tax, and multi-service invoicing management.
 * Digitized workflow, contract tracking, and departmental communication.
 
-🤝 **ACT — Abideb Consulting & Training**
-*Business Platform · Client Project*
+◈ **ACT — Abideb Consulting & Training**  
+*Business Platform · Client Project*  
 A comprehensive digital system built to streamline client operations, training delivery, and consultancy services.
 
 #### Additional Engineering Work
@@ -89,8 +89,19 @@ Actively exploring and building real-time interactive AI applications. Focusing 
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=arsemada&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/arsemada)
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=arsemada&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github&count_private=true)](https://github.com/arsemada)
-
 ---
 
-[LinkedIn](https://www.linkedin.com/in/arsema-addis-5b20952a0) • [X (Twitter)](https://x.com/arsemadd) • [Email](mailto:arsemadd@gmail.com) • [Portfolio](https://github.com/arsemada)
+<div align="left">
+  <a href="https://www.linkedin.com/in/arsema-addis-5b20952a0">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/arsemadd">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:arsemadd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/arsemada">
+    <img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
