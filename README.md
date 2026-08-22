@@ -1,4 +1,4 @@
-# Arsema
+# Arsema Degu
 **Full-Stack Developer | Backend Developer | AI Integration**
 
 Building robust enterprise systems, multi-tenant SaaS platforms, and intelligent agentic AI solutions. Focused on scalable architectures and business process automation.
@@ -80,9 +80,9 @@ Actively exploring and building real-time interactive AI applications. Focusing 
 
 ### 📊 GitHub Activity & Consistency
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsemada&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&date_format=M%20j%5B%2C%20Y%5D&timezone=Africa/Addis_Ababa)](https://github.com/arsemada)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=arsemada&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/arsemada)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsemada&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github&count_private=true)](https://github.com/arsemada)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=arsemada&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github&count_private=true)](https://github.com/arsemada)
 
 ---
 
