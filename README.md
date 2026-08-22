@@ -1,14 +1,19 @@
 # Hello World... 👩‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Systems+Architect;AI+Integration+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Developer;AI+Integration)](https://git.io/typing-svg)
 
-I am a software engineer specializing in backend architecture, full-stack development, and modern AI integrations. I build robust enterprise systems, multi-tenant SaaS platforms, and intelligent agentic workflows. Whether I'm architecting a complex ERP system, engineering an automated business process, or implementing real-time vector search, my focus is always on writing clean code and delivering scalable solutions that solve real-world problems.
+I am a Full-Stack Developer specializing in backend architecture, full-stack development, and modern AI integrations. I build robust enterprise systems, multi-tenant SaaS platforms, and intelligent agentic workflows.
+
+I enjoy turning complex business requirements into practical, well-structured software — from designing backend systems and APIs to building intuitive interfaces and integrating AI where it creates real value.
+
+Currently, I'm deepening my work in Agentic AI, exploring how intelligent systems, real-time data, and automation can come together to build more capable software.
 
 ---
 
 ### ⚙️ Core Technology Stack
 
 **Backend & Architecture**
+
 <table>
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=java" width="45"/><br><sub>Java</sub></td>
@@ -22,6 +27,7 @@ I am a software engineer specializing in backend architecture, full-stack develo
 </table>
 
 **Frontend & Mobile**
+
 <table>
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=js" width="45"/><br><sub>JavaScript</sub></td>
@@ -33,6 +39,7 @@ I am a software engineer specializing in backend architecture, full-stack develo
 </table>
 
 **Infrastructure & Tools**
+
 <table>
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=docker" width="45"/><br><sub>Docker</sub></td>
@@ -45,41 +52,69 @@ I am a software engineer specializing in backend architecture, full-stack develo
 
 ---
 
-### 🏗️ Systems Engineering & Experience
+### 🏗️ Selected Work
 
-◈ **Bahir Dar Automotive Engineering ERP**  
-*Enterprise Resource Planning · Full-Stack*  
-An enterprise software system engineered for automotive workshop and inventory management.
-* Authored technical proposals, requirement specifications, and workflow documentation.
-* Designed backend architecture to manage complex inventory supply chains.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-◈ **IIMS — Innovation & Incubation Management System**  
-*SaaS · Full-Stack · AI Integration*  
-A multi-tenant platform architected for incubation centers to manage end-to-end startup lifecycles.
-* Automated startup onboarding, progress tracking, and mentor assignments.
-* Integrated AI-powered incubation guidance and analytics.
-* Seamless Google Calendar synchronization and tenant management.
+### <a href="YOUR_BDAE_DEPLOYED_URL">BDAE ERP</a>
 
-◈ **Gato ERP System**  
-*Enterprise Resource Planning · Client: Gato Consultancy & Trading PLC*  
-A specialized operational management system engineered to automate complex business workflows.
-* Centralized financial, tax, and multi-service invoicing management.
-* Digitized workflow, contract tracking, and departmental communication.
+`ERP · Full-Stack`
 
-◈ **ACT — Abideb Consulting & Training**  
-*Business Platform · Client Project*  
-A comprehensive digital system built to streamline client operations, training delivery, and consultancy services.
+Enterprise system for **Bahir Dar Automotive Engineering**, covering inventory, assets, workshop operations, and service workflows.
 
-#### Additional Engineering Work
-* **IPv6 Ethiopia:** A national-scale technical resource hub featuring global adoption tracking.
-* **SAI² (Secure AI in Africa):** An initiative platform driving AI security awareness and defense training.
-* **ETNERD Security Solutions:** A corporate cybersecurity platform featuring secure client inquiry flows.
-* **ETWiC:** A community portal managing student chapters and mentorships for women in cybersecurity.
+</td>
+
+<td width="50%" valign="top">
+
+### <a href="https://iimshub.com">IIMS</a>
+
+`SaaS · Full-Stack · AI Integration`
+
+Multi-tenant incubation platform for startup applications, mentoring, progress tracking, analytics, and AI-powered guidance.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### <a href="YOUR_GATO_DEPLOYED_URL">Gato ERP</a>
+
+`ERP · Client Project`
+
+Business management platform for **Gato Consultancy & Trading PLC**, bringing finance, contracts, services, and operations into one system.
+
+</td>
+
+<td width="50%" valign="top">
+
+### <a href="YOUR_ACT_DEPLOYED_URL">ACT</a>
+
+`Full-Stack · Client Project`
+
+Digital business platform developed for **Abideb Consulting & Training**, supporting consultancy, training, and client operations.
+
+</td>
+</tr>
+</table>
+
+### 🌍 Other Work
+
+| Project | Focus |
+|:--|:--|
+| <a href="YOUR_IPV6_URL"><b>IPv6 Ethiopia</b></a> | IPv6 testing, adoption tracking, and technical resources for Ethiopia |
+| <a href="YOUR_SAI2_URL"><b>Secure AI in Africa — SAI²</b></a> | AI security awareness, adversarial AI defense, and local capacity building |
+| <a href="YOUR_ETNERD_URL"><b>ETNERD Security Solutions</b></a> | Cybersecurity services, secure inquiries, and security news & insights |
+| <a href="YOUR_ETWIC_URL"><b>ETWiC</b></a> | Community platform for chapters, mentorship, and cybersecurity events |
 
 ---
 
 ### 🧠 Current R&D: Agentic AI
-Actively exploring and building real-time interactive AI applications. Focusing on context-aware systems and intelligent data retrieval.
+
+Actively exploring and building real-time interactive AI applications, with a focus on context-aware systems and intelligent data retrieval.
+
 * **Core Focus:** Agentic Workflows, RAG (Retrieval-Augmented Generation), Vector Search
 * **Tooling:** ChromaDB, Redis, Streamlit, AI APIs
 
@@ -87,21 +122,26 @@ Actively exploring and building real-time interactive AI applications. Focusing 
 
 ### 📊 GitHub Activity & Consistency
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=arsemada&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/arsemada)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arsemada&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/arsema-addis-5b20952a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/arsemadd">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:arsemadd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/arsemada">
-    <img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arsema-addis-5b20952a0">
+  <img src="https://cdn.simpleicons.org/linkedin/58A6FF" width="28" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/arsemadd">
+  <img src="https://cdn.simpleicons.org/x/58A6FF" width="28" alt="X" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:arsemadd@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/58A6FF" width="28" alt="Email" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/arsemada">
+  <img src="https://cdn.simpleicons.org/github/58A6FF" width="28" alt="GitHub" />
+</a>
+
 </div>
