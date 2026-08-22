@@ -58,7 +58,7 @@ Currently, I'm deepening my work in Agentic AI, exploring how intelligent system
 <tr>
 <td width="50%" valign="top">
 
-### <a href="YOUR_BDAE_DEPLOYED_URL">BDAE ERP</a>
+### <a href="https://bdae-erp.vercel.app/">BDAE ERP</a>
 
 `ERP · Full-Stack`
 
@@ -80,9 +80,9 @@ Multi-tenant incubation platform for startup applications, mentoring, progress t
 <tr>
 <td width="50%" valign="top">
 
-### <a href="YOUR_GATO_DEPLOYED_URL">Gato ERP</a>
+### <a href="https://gato-omega.vercel.app/">Gato ERP</a>
 
-`ERP · Client Project`
+`ERP · Full-Stack`
 
 Business management platform for **Gato Consultancy & Trading PLC**, bringing finance, contracts, services, and operations into one system.
 
@@ -90,9 +90,9 @@ Business management platform for **Gato Consultancy & Trading PLC**, bringing fi
 
 <td width="50%" valign="top">
 
-### <a href="YOUR_ACT_DEPLOYED_URL">ACT</a>
+### <a href="https://abideb-consulting-and-training.vercel.app/">ACT</a>
 
-`Full-Stack · Client Project`
+`Full-Stack`
 
 Digital business platform developed for **Abideb Consulting & Training**, supporting consultancy, training, and client operations.
 
@@ -104,10 +104,10 @@ Digital business platform developed for **Abideb Consulting & Training**, suppor
 
 | Project | Focus |
 |:--|:--|
-| <a href="YOUR_IPV6_URL"><b>IPv6 Ethiopia</b></a> | IPv6 testing, adoption tracking, and technical resources for Ethiopia |
-| <a href="YOUR_SAI2_URL"><b>Secure AI in Africa — SAI²</b></a> | AI security awareness, adversarial AI defense, and local capacity building |
-| <a href="YOUR_ETNERD_URL"><b>ETNERD Security Solutions</b></a> | Cybersecurity services, secure inquiries, and security news & insights |
-| <a href="YOUR_ETWIC_URL"><b>ETWiC</b></a> | Community platform for chapters, mentorship, and cybersecurity events |
+| <a href="https://www.ipv6et.org/"><b>IPv6 Ethiopia</b></a> | IPv6 testing, adoption tracking, and technical resources for Ethiopia |
+| <a href="https://secureaiafrica.africa/"><b>Secure AI in Africa — SAI²</b></a> | AI security awareness, adversarial AI defense, and local capacity building |
+| <a href="https://etnerd.com/"><b>ETNERD Security Solutions</b></a> | Cybersecurity services, secure inquiries, and security news & insights |
+| <a href="https://etwic.org/"><b>ETWiC</b></a> | Community platform for chapters, mentorship, and cybersecurity events |
 
 ---
 
