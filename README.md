@@ -1,7 +1,8 @@
-# Arsema Degu
-**Full-Stack Developer | Backend Developer | AI Integration**
+# Hello World... 👩‍💻
 
-Building robust enterprise systems, multi-tenant SaaS platforms, and intelligent agentic AI solutions. Focused on scalable architectures and business process automation.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Systems+Architect;AI+Integration+Specialist)](https://git.io/typing-svg)
+
+I am a software engineer specializing in backend architecture, full-stack development, and modern AI integrations. I build robust enterprise systems, multi-tenant SaaS platforms, and intelligent agentic workflows. Whether I'm architecting a complex ERP system, engineering an automated business process, or implementing real-time vector search, my focus is always on writing clean code and delivering scalable solutions that solve real-world problems.
 
 ---
 
@@ -15,15 +16,19 @@ Building robust enterprise systems, multi-tenant SaaS platforms, and intelligent
     <td><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br><sub>Node.js</sub></td>
     <td><img src="https://skillicons.dev/icons?i=express" width="45"/><br><sub>Express</sub></td>
     <td><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br><sub>PostgreSQL</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=supabase" width="45"/><br><sub>Supabase</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br><sub>Firebase</sub></td>
   </tr>
 </table>
 
-**Frontend & UI**
+**Frontend & Mobile**
 <table>
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=js" width="45"/><br><sub>JavaScript</sub></td>
     <td><img src="https://skillicons.dev/icons?i=react" width="45"/><br><sub>React</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br><sub>Next.js</sub></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><sub>Tailwind</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter" width="45"/><br><sub>Flutter</sub></td>
   </tr>
 </table>
 
@@ -33,6 +38,8 @@ Building robust enterprise systems, multi-tenant SaaS platforms, and intelligent
     <td><img src="https://skillicons.dev/icons?i=docker" width="45"/><br><sub>Docker</sub></td>
     <td><img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub>Git</sub></td>
     <td><img src="https://skillicons.dev/icons?i=github" width="45"/><br><sub>GitHub</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" width="45"/><br><sub>Postman</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><sub>VS Code</sub></td>
   </tr>
 </table>
 
@@ -40,26 +47,26 @@ Building robust enterprise systems, multi-tenant SaaS platforms, and intelligent
 
 ### 🏗️ Systems Engineering & Experience
 
-**Bahir Dar Automotive Engineering ERP**
+⚙️ **Bahir Dar Automotive Engineering ERP**
 *Enterprise Resource Planning · Full-Stack*
 An enterprise software system engineered for automotive workshop and inventory management.
 * Authored technical proposals, requirement specifications, and workflow documentation.
 * Designed backend architecture to manage complex inventory supply chains.
 
-**IIMS — Innovation & Incubation Management System**
+🚀 **IIMS — Innovation & Incubation Management System**
 *SaaS · Full-Stack · AI Integration*
 A multi-tenant platform architected for incubation centers to manage end-to-end startup lifecycles.
 * Automated startup onboarding, progress tracking, and mentor assignments.
 * Integrated AI-powered incubation guidance and analytics.
 * Seamless Google Calendar synchronization and tenant management.
 
-**Gato ERP System**
+🏢 **Gato ERP System**
 *Enterprise Resource Planning · Client: Gato Consultancy & Trading PLC*
 A specialized operational management system engineered to automate complex business workflows.
 * Centralized financial, tax, and multi-service invoicing management.
 * Digitized workflow, contract tracking, and departmental communication.
 
-**ACT — Abideb Consulting & Training**
+🤝 **ACT — Abideb Consulting & Training**
 *Business Platform · Client Project*
 A comprehensive digital system built to streamline client operations, training delivery, and consultancy services.
 
