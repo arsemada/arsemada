@@ -127,21 +127,19 @@ Actively exploring and building real-time interactive AI applications, with a fo
 ---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/arsema-addis-5b20952a0">
-  <img src="https://cdn.simpleicons.org/linkedin/58A6FF" width="28" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/arsemadd">
-  <img src="https://cdn.simpleicons.org/x/58A6FF" width="28" alt="X" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:arsemadd@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/58A6FF" width="28" alt="Email" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/arsemada">
-  <img src="https://cdn.simpleicons.org/github/58A6FF" width="28" alt="GitHub" />
-</a>
-
+  <a href="https://www.linkedin.com/in/arsema-addis-5b20952a0">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/arsemadd">
+    <img src="https://skillicons.dev/icons?i=twitter" width="36" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:arsemadd@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/arsemada">
+    <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" />
+  </a>
 </div>
