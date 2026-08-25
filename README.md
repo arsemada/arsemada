@@ -120,11 +120,9 @@ Actively exploring and building real-time interactive AI applications, with a fo
 
 ---
 
-### 📊 GitHub Activity & Consistency
+### 📊 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arsemada&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arsemada&theme=github-dark&hide_border=true&hide_total_contributions=true&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideNums=F0F6FC&currStreakLabel=FF8C00&sideLabels=8B949E&dates=58A6FF&stroke=30363D)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arsema-addis-5b20952a0">
