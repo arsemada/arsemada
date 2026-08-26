@@ -120,8 +120,6 @@ Actively exploring and building real-time interactive AI applications, with a fo
 
 ---
 
-one of my friend send me a code of her github readme streak section take a look at this :
-
 
 
 ## 📊 GitHub Insights
