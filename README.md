@@ -111,7 +111,12 @@ Digital business platform developed for **Abideb Consulting & Training**, suppor
 
 ---
 
+### 🧠 Current R&D: Agentic AI
 
+Actively exploring and building real-time interactive AI applications, with a focus on context-aware systems and intelligent data retrieval.
+
+* **Core Focus:** Agentic Workflows, RAG (Retrieval-Augmented Generation), Vector Search
+* **Tooling:** ChromaDB, Redis, Streamlit, AI APIs
 
 ---
 
